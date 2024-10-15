@@ -194,7 +194,7 @@ const projectdata: ProjectDataType[] = [
         desc: "Simple installation and seamless integration with YouTube for an effortless experience.",
       },
     ],
-    h3: "Tools Used for the Project:",
+    h3: "Tools Used for the Project :",
     d3: [
       {
         title: "HTML and JavaScript:",
